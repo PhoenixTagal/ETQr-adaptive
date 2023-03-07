@@ -1,6 +1,6 @@
 # ETQr-adaptive
 
-Configuring the ETQ reliance (ETQr) API 
+Configuring the ETQ reliance (ETQr) API for Adaptive
 
 **Authentication**
 
